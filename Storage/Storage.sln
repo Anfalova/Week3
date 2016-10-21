@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage", "Storage\Storage.csproj", "{67EA7057-E9DE-405F-8DAB-78F9A98829AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage.Test", "Storage.Test\Storage.Test.csproj", "{C17160E2-DAED-4E08-B276-D04EACE95CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67EA7057-E9DE-405F-8DAB-78F9A98829AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EA7057-E9DE-405F-8DAB-78F9A98829AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EA7057-E9DE-405F-8DAB-78F9A98829AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EA7057-E9DE-405F-8DAB-78F9A98829AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17160E2-DAED-4E08-B276-D04EACE95CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17160E2-DAED-4E08-B276-D04EACE95CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17160E2-DAED-4E08-B276-D04EACE95CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17160E2-DAED-4E08-B276-D04EACE95CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
